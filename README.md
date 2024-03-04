@@ -1,7 +1,7 @@
 # Setup
 ```shell
-- `python setup.py install`
-- `conda env create -f environment.yaml` or `pip install -r requirements.txt`
+python setup.py install
+conda env create -f environment.yaml or pip install -r requirements.txt
 ```
 
 
