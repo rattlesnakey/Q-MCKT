@@ -16,4 +16,4 @@ conda env create -f environment.yaml or pip install -r requirements.txt
 
 
 ## Train & Eval
-- `cd examples && bash pipeline_q-mckt_{dataset}`, set the dataset you want to train and evaluate.
+- `cd examples && bash train_q-mckt_{dataset}.shg`, set the dataset you want to train and evaluate.

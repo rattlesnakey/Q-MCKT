@@ -35,7 +35,7 @@ SRC_DIR=../src
 DATASET_NAME=ednet
 export CUDA_VISIBLE_DEVICES=1
 
-MODEL_NAME=qikt
+MODEL_NAME=qikt_plus
 SAVE_DIR=../saved_models/${MODEL_NAME}-${DATASET_NAME}
 EPOCHS=200
 LR=1e-4 
